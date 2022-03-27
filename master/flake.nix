@@ -11,6 +11,7 @@
   inputs.src-eth-master.ref   = "refs/heads/master";
   inputs.src-eth-master.owner = "status-im";
   inputs.src-eth-master.repo  = "nim-eth";
+  inputs.src-eth-master.dir   = "";
   inputs.src-eth-master.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
