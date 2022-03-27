@@ -21,7 +21,6 @@
     "refs/heads/joinpart",
     "refs/heads/jordan/nethermind-sync",
     "refs/heads/master",
-    "refs/heads/mitigate-rlp-annoyances",
     "refs/heads/populate-table",
     "refs/heads/restore-tracing",
     "refs/heads/rocksdb-eth1",
