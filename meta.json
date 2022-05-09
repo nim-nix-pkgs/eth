@@ -7,7 +7,7 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-eth",
   "refs": [
-    "fatal: unable to access 'https://github.com/status-im/nim-eth/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/status-im/nim-eth/': SSL connection timeout",
     ""
   ],
   "heads": []
