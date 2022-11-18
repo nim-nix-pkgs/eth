@@ -37,14 +37,6 @@
   inputs."secp256k1".inputs.nixpkgs.follows = "nixpkgs";
   inputs."secp256k1".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
-  inputs."rocksdb".owner = "nim-nix-pkgs";
-  inputs."rocksdb".ref   = "master";
-  inputs."rocksdb".repo  = "rocksdb";
-  inputs."rocksdb".dir   = "master";
-  inputs."rocksdb".type  = "github";
-  inputs."rocksdb".inputs.nixpkgs.follows = "nixpkgs";
-  inputs."rocksdb".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
-  
   inputs."chronos".owner = "nim-nix-pkgs";
   inputs."chronos".ref   = "master";
   inputs."chronos".repo  = "chronos";
